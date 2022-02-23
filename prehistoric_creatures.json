@@ -1,18 +1,1 @@
-[
-  {
-    "type":"giant beaver",
-    "img_url":"http://www.beringia.com/sites/default/files/Giant-Beaver-banner.jpg"
-  },
-  {
-    "type":"mastodon",
-    "img_url":"https://cdn-images-1.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg"
-  },
-  {
-    "type":"saber-toothed salmon",
-    "img_url":"https://cottagelife.com/wp-content/uploads/2014/11/Oncorhynchus_rastrosus.jpg"
-  },
-  {
-    "type":"megalonyx",
-    "img_url":"https://animalgeography.files.wordpress.com/2018/08/sloth-banner-e1535192925361.jpg?w=584&h=325"
-  }
-]
+[{"type":"mastodon","img_url":"https://cdn-images-1.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg"},{"type":"saber-toothed salmon","img_url":"https://cottagelife.com/wp-content/uploads/2014/11/Oncorhynchus_rastrosus.jpg"},{"type":"megalonyx","img_url":"https://animalgeography.files.wordpress.com/2018/08/sloth-banner-e1535192925361.jpg?w=584&h=325"},{"type":"dafat","img_url":"https://cdn.discordapp.com/attachments/919468128432455700/940403487781556254/IMG_2657.JPG"},{"type":"hamham   "},{"type":"einstein","img_url":"https://cdn.discordapp.com/attachments/919468128432455700/919717181858668544/IMG_0931.JPEG"},{"type":"pudgie","img_url":"https://cdn.discordapp.com/attachments/919468128432455700/919716752617795704/IMG_0445.JPEG"}]
